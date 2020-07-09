@@ -216,6 +216,9 @@ section .sci li a {
     box-sizing: border-box;
     cursor: pointer;
 }
+.newsletter .inputBox input[type="submit"]:hover {
+opacity: 0.7;
+}
 
 .newsletter .close {
     position: absolute;
