@@ -305,3 +305,8 @@ opacity: 0.7;
         color: #42a3cf;
     }
 }
+@media (min-width: 1200px) {
+    header .logo{
+        font-size: 40px;
+    }
+}
